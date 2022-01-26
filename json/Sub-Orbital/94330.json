@@ -1,0 +1,77 @@
+{
+  "project": {
+    "id": 94330,
+    "lastUpdated": "2018-10-10",
+    "title": "Superconducting Antenna-Coupled Detectors for CMB Polarimetry with the Inflation Probe",
+    "status": "Completed",
+    "startDate": "Jan 2018",
+    "endDate": "Dec 2019",
+    "description": "We propose to develop advanced, high-sensitivity millimeter-wave detector arrays for measuring the polarization of the cosmic microwave background (CMB). The arrays are based on planar antennas that provide beam collimation, polarization analysis, and spectral band definition in a compact lithographed format that eliminates discrete fore-optics such as lenses and feedhorns. The antennas are coupled to transition-edge superconducting (TES) bolometers, read out with multiplexed SQUID current amplifiers.  This development is directed to advance the technology readiness of the Inflation Probe mission in NASA's Physics of the Cosmos program. The Inflation Probe is a fourth-generation CMB satellite that will measure the polarization of the CMB to astrophysical limits, characterizing the inflationary polarization signal, mapping large-scale structure based on polarization induced by gravitational lensing, and mapping Galactic magnetic fields through measurements of polarized dust emission. The inflationary polarization signal is produced by a background of gravitational waves from the epoch of inflation, an exponential expansion of space-time in the early universe, with an amplitude that depends on the physical mechanism producing inflation. The inflationary polarization signal may be distinguished by its unique 'B-mode' vector properties from polarization from the density variations that predominantly source CMB temperature anisotropy.  Observations with these detectors currently provide the world's leading constraints on the inflationary B-mode polarization signal and, in turn, constraints on inflationary physics.  Devices have been developed that demonstrate sensitivity, stability, and tolerance of energetic particles in an long-duration balloon environment. Ground-based receivers using these detectors demonstrate precise control of systematic errors at sensitivities in small sky patches that are representative of the Inflation Probe.  New arrays operating at 220 and 270 GHz are now providing the most sensitive determinations of polarized emission from interstellar dust.  We propose to advance specific aspects of antenna-coupled superconducting detectors so that they have high technology readiness for space applications, including the NASA Inflation Probe and upcoming international satellite opportunities.  For this proposal we will develop a diplexed 30/40 GHz dual-polarization antenna that saves focal plane area, a premium at low frequencies where devices are physically large.  We will design, fabricate, and test a new focal plane module for housing arrays made on 150 mm diameter wafers that is compatible with 30, 40, 95 and 150 GHz layouts.  Both the diplexed 30/40 GHz antennas and the modules are well-suited for immediate use in sub-orbital and ground-based science experiments.  We will design and characterize a passive resonator chip for measuring propagation loss in Nb and dielectric materials.  The chip is designed for rapid and routine process monitoring on production wafers.  Finally we will develop spatially uniform AlMn TES films, and characterize array cosmic ray susceptibility at 100 mK, extending successful performance measurements at 300 mK.",
+    "technologyMaturityStart": "3",
+    "technologyMaturityCurrent": "3",
+    "technologyMaturityEnd": "4",
+    "destinations": ["Outside the Solar System"],
+    "responsibleProgram": "Strategic Astrophysics Technology",
+    "responsibleMissionDirectorateOrOffice": "Science Mission Directorate",
+    "leadOrganization": {
+      "name": "California Institute of Technology",
+      "type": "Academic",
+      "acronym": null,
+      "city": "Pasadena",
+      "state": "CA",
+      "country": "United States"
+    },
+    "workLocations": ["California", "Illinois"],
+    "programDirectors": ["Mario Perez"],
+    "programManagers": ["Mario Perez"],
+    "principalInvestigators": ["James J Bock"],
+    "coInvestigators": [
+      "Karen R Piggee",
+      "Lorenzo Moncelsi",
+      "Anthony Turner",
+      "Alexis Weber",
+      "Jeffrey P Filippini",
+      "Roger Obrient"
+    ],
+    "libraryItems": [],
+    "supportingOrganizations": [
+      {
+        "name": "Jet Propulsion Laboratory",
+        "type": "NASA Center",
+        "acronym": "JPL",
+        "city": "Pasadena",
+        "state": "CA",
+        "country": "United States"
+      },
+      {
+        "name": "University of Illinois at Urbana-Champaign",
+        "type": "Academic",
+        "acronym": null,
+        "city": "Urbana",
+        "state": "IL",
+        "country": "United States"
+      }
+    ],
+    "primaryTas": [
+      {
+        "id": 10739,
+        "code": "TX08",
+        "title": "Sensors and Instruments",
+        "priority": null
+      },
+      {
+        "id": 10740,
+        "code": "TX08.1",
+        "title": "Remote Sensing Instruments/Sensors",
+        "priority": null
+      },
+      {
+        "id": 10741,
+        "code": "TX08.1.1",
+        "title": "Detectors and Focal Planes",
+        "priority": null
+      }
+    ],
+    "additionalTas": []
+  }
+}

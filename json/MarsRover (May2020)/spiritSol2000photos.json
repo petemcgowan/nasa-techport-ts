@@ -1,0 +1,148 @@
+{
+  "photos": [
+    {
+      "id": 322088,
+      "sol": 2000,
+      "camera": {
+        "id": 30,
+        "name": "PANCAM",
+        "rover_id": 7,
+        "full_name": "Panoramic Camera"
+      },
+      "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/2000/2P303913975ESFB1E5P2601L8M1-BR.JPG",
+      "earth_date": "2009-08-19",
+      "rover": {
+        "id": 7,
+        "name": "Spirit",
+        "landing_date": "2004-01-04",
+        "launch_date": "2003-06-10",
+        "status": "complete",
+        "max_sol": 2208,
+        "max_date": "2010-03-21",
+        "total_photos": 124550,
+        "cameras": [
+          { "name": "FHAZ", "full_name": "Front Hazard Avoidance Camera" },
+          { "name": "NAVCAM", "full_name": "Navigation Camera" },
+          { "name": "PANCAM", "full_name": "Panoramic Camera" },
+          {
+            "name": "MINITES",
+            "full_name": "Miniature Thermal Emission Spectrometer (Mini-TES)"
+          },
+          {
+            "name": "ENTRY",
+            "full_name": "Entry, Descent, and Landing Camera"
+          },
+          { "name": "RHAZ", "full_name": "Rear Hazard Avoidance Camera" }
+        ]
+      }
+    },
+    {
+      "id": 322089,
+      "sol": 2000,
+      "camera": {
+        "id": 30,
+        "name": "PANCAM",
+        "rover_id": 7,
+        "full_name": "Panoramic Camera"
+      },
+      "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/2000/2P303913975ESFB1E5P2601R8M1-BR.JPG",
+      "earth_date": "2009-08-19",
+      "rover": {
+        "id": 7,
+        "name": "Spirit",
+        "landing_date": "2004-01-04",
+        "launch_date": "2003-06-10",
+        "status": "complete",
+        "max_sol": 2208,
+        "max_date": "2010-03-21",
+        "total_photos": 124550,
+        "cameras": [
+          { "name": "FHAZ", "full_name": "Front Hazard Avoidance Camera" },
+          { "name": "NAVCAM", "full_name": "Navigation Camera" },
+          { "name": "PANCAM", "full_name": "Panoramic Camera" },
+          {
+            "name": "MINITES",
+            "full_name": "Miniature Thermal Emission Spectrometer (Mini-TES)"
+          },
+          {
+            "name": "ENTRY",
+            "full_name": "Entry, Descent, and Landing Camera"
+          },
+          { "name": "RHAZ", "full_name": "Rear Hazard Avoidance Camera" }
+        ]
+      }
+    },
+    {
+      "id": 322090,
+      "sol": 2000,
+      "camera": {
+        "id": 30,
+        "name": "PANCAM",
+        "rover_id": 7,
+        "full_name": "Panoramic Camera"
+      },
+      "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/2000/2P303934818ESFB1E5P2618L8M1-BR.JPG",
+      "earth_date": "2009-08-19",
+      "rover": {
+        "id": 7,
+        "name": "Spirit",
+        "landing_date": "2004-01-04",
+        "launch_date": "2003-06-10",
+        "status": "complete",
+        "max_sol": 2208,
+        "max_date": "2010-03-21",
+        "total_photos": 124550,
+        "cameras": [
+          { "name": "FHAZ", "full_name": "Front Hazard Avoidance Camera" },
+          { "name": "NAVCAM", "full_name": "Navigation Camera" },
+          { "name": "PANCAM", "full_name": "Panoramic Camera" },
+          {
+            "name": "MINITES",
+            "full_name": "Miniature Thermal Emission Spectrometer (Mini-TES)"
+          },
+          {
+            "name": "ENTRY",
+            "full_name": "Entry, Descent, and Landing Camera"
+          },
+          { "name": "RHAZ", "full_name": "Rear Hazard Avoidance Camera" }
+        ]
+      }
+    },
+    {
+      "id": 322091,
+      "sol": 2000,
+      "camera": {
+        "id": 30,
+        "name": "PANCAM",
+        "rover_id": 7,
+        "full_name": "Panoramic Camera"
+      },
+      "img_src": "http://mars.nasa.gov/mer/gallery/all/2/p/2000/2P303934818ESFB1E5P2618R8M1-BR.JPG",
+      "earth_date": "2009-08-19",
+      "rover": {
+        "id": 7,
+        "name": "Spirit",
+        "landing_date": "2004-01-04",
+        "launch_date": "2003-06-10",
+        "status": "complete",
+        "max_sol": 2208,
+        "max_date": "2010-03-21",
+        "total_photos": 124550,
+        "cameras": [
+          { "name": "FHAZ", "full_name": "Front Hazard Avoidance Camera" },
+          { "name": "NAVCAM", "full_name": "Navigation Camera" },
+          { "name": "PANCAM", "full_name": "Panoramic Camera" },
+          {
+            "name": "MINITES",
+            "full_name": "Miniature Thermal Emission Spectrometer (Mini-TES)"
+          },
+          {
+            "name": "ENTRY",
+            "full_name": "Entry, Descent, and Landing Camera"
+          },
+          { "name": "RHAZ", "full_name": "Rear Hazard Avoidance Camera" }
+        ]
+      }
+    }
+  ]
+}

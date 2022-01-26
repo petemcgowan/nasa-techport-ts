@@ -1,0 +1,84 @@
+{
+  "project": {
+    "id": 95118,
+    "lastUpdated": "2020-05-19",
+    "title": "Advanced on-chip, submm-wavelength spectrometers using superconducting detectors.",
+    "status": "Active",
+    "startDate": "Jan 2019",
+    "endDate": "Dec 2023",
+    "description": "This program will develop and characterize ultra-sensitive on-chip spectrometers covering the sub-mm and mm-wavelength observing bands from 3 mm to 230 microns. This builds upon a successful program, SuperSpec, which has demonstrated the basic filterbank operation, a proof of principle that large-format spectrographs for the far-IR and submillimeter can be miniaturized onto silicon chips. Using superconducting mm-wave transmission line components and extremely small-volume kinetic inductance detectors (KIDs), we have constructed and are currently preparing to deploy a ground-based demonstration instrument covering the 1 mm atmospheric band. This is a key enabling technology for the next-generation cryogenically-cooled far-IR flight missions as well as near-future sub-orbital platforms such as balloon-based spectrometers and future SOFIA instruments. However, obtaining full scientific return from these powerful future far-IR missions requires 3 crucial advances in the SuperSpec filerbank technology: (1) improving filterbank loss by a factor of >10; (2) improving the detector sensitivity in order to meet the requirements of the low-background space platforms; (3) extending operation from the mm-wave to 230 microns. In order to meet these goals, we will build on our experience with superspec, as well as advances in dielectric material quality, fabrication techniques, and kinetic-inductance detector (KID) design approaches to accomplish each of these goals. A successful demonstration of these technologies will not only benefit future spectroscopic instruments, but will be immediatly useful for instruments operating in the submm and for KID-based instruments designed for a wide range of science targets. We will begin by adjusting the filterbank electromagnetic design for a silicon inner layer dielectric as this promises factors of up to 50 times lower loss than the current materials. We will build and test silicon-dielectric prototypes, beginning at the current 200--300 GHz band, but then moving up to the 400--700 GHz band. We will explore both deposited amorphous silicon (a-Si) using a new low-loss recipe as well as a crystalline silicon (c-Si) ''fliped-SOI\" process using silicon-on-oxide (SOI) wafers. Meanwhile we will develop more sensitive KIDs to embed in the spectrometers. In particular, we will adapt our spectrometer design to accommodate very small volume aluminum KIDs, which promises significant improvements in sensitivity required for low-loading applications. Finally, we will explore superconducting transmission lines made from both sputtered and atomic layer deposited (ALD) NbTiN and NbN. These materials have a transition temperature much higher than niobium and should allow us to extend the operation of our basic filterbank architecture to THz frequencies. In addition to a number of test structures sample devices, we will produce a series of four demonstration pixels: [FB-1]: a prototype covering the full 200-300 GHz band with resolving power (R) of at least 1000 and negligible dielectric loss. [FB-2]: a similarly low-loss submm prototype covering the 850-650 micron bands with similar resolving powers. [FB-HR]: a mm-wavelength device designed to achieve the highest possible resolving powers, targeting R~5000. [FB-T]: a sparse filterbank covering regions of the 0.8-1.3 THz filterbank to demonstrate high-frequency operation. The first three of these devices are intended to be field-ready at the conclusion of this program, and the fourth easily adapted for future instruments.",
+    "benefits": "The Astrophysics Research and Analysis program (APRA) supports suborbital and suborbital-class investigations, development of detectors and supporting technology, laboratory astrophysics, and limited ground based observing. Basic research proposals in these areas are solicited for investigations that are relevant to NASA's programs in astronomy and astrophysics, including the entire range of photons, gravitational waves, and particle astrophysics. The emphasis of this solicitation is on technologies and investigations that advance NASA astrophysics missions and goals.",
+    "destinations": ["Outside the Solar System"],
+    "responsibleProgram": "Astrophysics Research and Analysis",
+    "responsibleMissionDirectorateOrOffice": "Science Mission Directorate",
+    "leadOrganization": {
+      "name": "The University of Chicago",
+      "type": "Academic",
+      "acronym": null,
+      "city": "Chicago",
+      "state": "IL",
+      "country": "United States"
+    },
+    "workLocations": ["California", "Illinois"],
+    "programDirectors": ["Michael Garcia"],
+    "programManagers": ["Dominic J Benford"],
+    "principalInvestigators": ["Erik Shirokoff"],
+    "coInvestigators": [
+      "Steven Hailey-dunsheath",
+      "Sunil Golwala",
+      "Peter Barry",
+      "Andrew Beyer",
+      "Michael R Ludwig",
+      "Charles M Bradford",
+      "Henry G Leduc"
+    ],
+    "libraryItems": [],
+    "supportingOrganizations": [
+      {
+        "name": "California Institute of Technology",
+        "type": "Academic",
+        "acronym": null,
+        "city": "Pasadena",
+        "state": "CA",
+        "country": "United States"
+      },
+      {
+        "name": "Jet Propulsion Laboratory",
+        "type": "NASA Center",
+        "acronym": "JPL",
+        "city": "Pasadena",
+        "state": "CA",
+        "country": "United States"
+      },
+      {
+        "name": "The University of Chicago",
+        "type": "Academic",
+        "acronym": null,
+        "city": "Chicago",
+        "state": "IL",
+        "country": "United States"
+      }
+    ],
+    "primaryTas": [
+      {
+        "id": 10739,
+        "code": "TX08",
+        "title": "Sensors and Instruments",
+        "priority": null
+      },
+      {
+        "id": 10740,
+        "code": "TX08.1",
+        "title": "Remote Sensing Instruments/Sensors",
+        "priority": null
+      },
+      {
+        "id": 10741,
+        "code": "TX08.1.1",
+        "title": "Detectors and Focal Planes",
+        "priority": null
+      }
+    ],
+    "additionalTas": []
+  }
+}
