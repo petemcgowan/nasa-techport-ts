@@ -1,0 +1,793 @@
+{
+  "project": {
+    "id": 13075,
+    "lastUpdated": "2020-02-22",
+    "title": "Solar Electric Propulsion ",
+    "acronym": "SEP",
+    "status": "Active",
+    "startDate": "Oct 2013",
+    "endDate": "Sep 2023",
+    "description": "Design, develop, and qualification test a high-power, 12.5 kW Hall Effect thruster. - Design, develop, and test a high-power (300-600V) processing unit (PPU) using innovative silicon carbide circuits to overcome the challenges of high power PPU design, and thereby enable the development of future high power electric propulsion systems. - Demonstrate full, integrated performance of 300-600V PPU with 12.5-kW Hall Effect thruster strings.",
+    "benefits": "The technology will enable the use of high power electric propulsion systems for long term missions such as cargo transports to Mars.",
+    "technologyMaturityStart": "4",
+    "technologyMaturityCurrent": "4",
+    "technologyMaturityEnd": "9",
+    "destinations": ["The Moon", "Mars", "Others Inside the Solar System"],
+    "supportedMissionType": "Planned Mission (Pull)",
+    "responsibleProgram": "Technology Demonstration Missions",
+    "responsibleMissionDirectorateOrOffice": "Space Technology Mission Directorate",
+    "leadOrganization": {
+      "name": "Glenn Research Center",
+      "type": "NASA Center",
+      "acronym": "GRC",
+      "city": "Cleveland",
+      "state": "OH",
+      "country": "United States"
+    },
+    "workLocations": [
+      "Alabama",
+      "California",
+      "Colorado",
+      "Maryland",
+      "Ohio",
+      "Virginia",
+      "Washington"
+    ],
+    "programDirectors": ["Lanetra C Tate"],
+    "programManagers": ["Ginger Flores"],
+    "projectManagers": ["Tiffany Morgan"],
+    "website": "https://www.nasa.gov/mission_pages/tdm/main/index.html#.VQb6XUjJzyE",
+    "libraryItems": [
+      {
+        "id": 579,
+        "title": "13075-1390421461520.png",
+        "type": "Image",
+        "description": "Project Image   Solar Electric Propulsion (SEP)",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 2474,
+            "url": "https://techport.nasa.gov/file/2474",
+            "size": 203477
+          }
+        ]
+      },
+      {
+        "id": 24287,
+        "title": "300V Brass-board PPU at GRC VF-5",
+        "type": "Image",
+        "description": "300V Brass-board Power Processing Unit fabricated and tested, and successfully integrated and demonstrated with the Hall Effect Thruster Technology Development Unit at GRC Vacuum Facility-5",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17457,
+            "url": "https://techport.nasa.gov/file/17457",
+            "size": 3683397
+          }
+        ]
+      },
+      {
+        "id": 24264,
+        "title": "Advanced Solar Electric Propulsion for Planetary Defense_Brophy_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17436,
+            "url": "https://techport.nasa.gov/file/17436",
+            "size": 426702
+          }
+        ]
+      },
+      {
+        "id": 24265,
+        "title": "Char of Vacuum Facility Bkgrnd Gas Thru Sim & Considerations for EP Grnd Tstng_Yim_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17437,
+            "url": "https://techport.nasa.gov/file/17437",
+            "size": 931330
+          }
+        ]
+      },
+      {
+        "id": 24266,
+        "title": "Combining Solar Electric Propulsion&Chemical Propulsion for Crewed Missions to Mars_Percy_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17438,
+            "url": "https://techport.nasa.gov/file/17438",
+            "size": 621801
+          }
+        ]
+      },
+      {
+        "id": 24267,
+        "title": "Dev Approach & Status of 12.5 kW HERMeS Hall Thruster for SEP Techy Demo Mission_Hofer_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17439,
+            "url": "https://techport.nasa.gov/file/17439",
+            "size": 1718379
+          }
+        ]
+      },
+      {
+        "id": 24268,
+        "title": "Development of High-Power Hall Thruster Power Processing Units at NASA GRC_Pinero_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17440,
+            "url": "https://techport.nasa.gov/file/17440",
+            "size": 1613256
+          }
+        ]
+      },
+      {
+        "id": 32745,
+        "title": "Development of High-Power Solar Electric Propulsion",
+        "type": "Story",
+        "description": null,
+        "externalUrl": "https://www.nasa.gov/image-feature/development-of-high-power-solar-electric-propulsion",
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": []
+      },
+      {
+        "id": 32743,
+        "title": "Flexible solar panels power Cygnus to ISS rendez-vous",
+        "type": "Story",
+        "description": null,
+        "externalUrl": "http://optics.org/news/6/12/15",
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": []
+      },
+      {
+        "id": 24269,
+        "title": "Hall2De num sims for assessment of pole erosion in magnetically shielded Hall thruster_Lopez Ortega_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17441,
+            "url": "https://techport.nasa.gov/file/17441",
+            "size": 2223352
+          }
+        ]
+      },
+      {
+        "id": 24270,
+        "title": "Hall2De Sims of a 12.5-kW Magnetically Shielded Hall Thruster for the NASA SEP TDM_Mikellides_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17442,
+            "url": "https://techport.nasa.gov/file/17442",
+            "size": 928092
+          }
+        ]
+      },
+      {
+        "id": 24271,
+        "title": "Hall2De Sims with an Anomalous Transport Model Based on the Electron Cyclotron Drift Instability_Katz_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17443,
+            "url": "https://techport.nasa.gov/file/17443",
+            "size": 1032152
+          }
+        ]
+      },
+      {
+        "id": 24289,
+        "title": "HERMeS TDU at GRC VF-5 prepared for test",
+        "type": "Image",
+        "description": "Hall Effect Rocket with Magnetic Shielding (HERMeS) Technology Development Unit (TDU) thruster in Vacuum Facility-5 prepared for test.",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17459,
+            "url": "https://techport.nasa.gov/file/17459",
+            "size": 3799072
+          }
+        ]
+      },
+      {
+        "id": 24288,
+        "title": "HERMeS TDU at VF-5 in test",
+        "type": "Image",
+        "description": "Hall Effect Rocket with Magnetic Shielding (HERMeS) Technology Development Unit (TDU) thruster in test at Vacuum Facility-5",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17458,
+            "url": "https://techport.nasa.gov/file/17458",
+            "size": 3859430
+          }
+        ]
+      },
+      {
+        "id": 24285,
+        "title": "HERMeS TDU in GRC VF-5",
+        "type": "Image",
+        "description": "Hall Effect Rocket with Magnetic Shielding (HERMeS) Technology Development Unit (thruster) fabricated and tested in GRC Vacuum-Facility-5 to validate design methodology and tools and to reduce mission and flight hardware development risks.",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17455,
+            "url": "https://techport.nasa.gov/file/17455",
+            "size": 3023177
+          }
+        ]
+      },
+      {
+        "id": 24286,
+        "title": "HERMeS TDU in GRC VF-5 alternate view",
+        "type": "Image",
+        "description": "Hall Effect Rocket with Magnetic Shielding (HERMeS) Technology Development Unit (thruster) fabricated and tested in GRC Vacuum-Facility-5 to validate design methodology and tools and to reduce mission and flight hardware development risks.",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17456,
+            "url": "https://techport.nasa.gov/file/17456",
+            "size": 3835703
+          }
+        ]
+      },
+      {
+        "id": 24290,
+        "title": "HERMeS TDU in test at GRC VF-5",
+        "type": "Image",
+        "description": "Hall Effect Rocket with Magnetic Shielding (HERMeS) Technology Development Unit (TDU) thruster in test at Vacuum Facility-5",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17460,
+            "url": "https://techport.nasa.gov/file/17460",
+            "size": 3545253
+          }
+        ]
+      },
+      {
+        "id": 24291,
+        "title": "HERMeS TDU in test at GRC VF-5 alternate view 1",
+        "type": "Image",
+        "description": "Hall Effect Rocket with Magnetic Shielding (HERMeS) Technology Development Unit (TDU) thruster in test at Vacuum Facility-5",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17461,
+            "url": "https://techport.nasa.gov/file/17461",
+            "size": 3557987
+          }
+        ]
+      },
+      {
+        "id": 24292,
+        "title": "HERMeS TDU in test at GRC VF-5 alternate view 2",
+        "type": "Image",
+        "description": "Hall Effect Rocket with Magnetic Shielding (HERMeS) Technology Development Unit (TDU) thruster in test at Vacuum Facility-5",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17462,
+            "url": "https://techport.nasa.gov/file/17462",
+            "size": 3712605
+          }
+        ]
+      },
+      {
+        "id": 24293,
+        "title": "HERMeS TDU prepared for test at GRC VF-5",
+        "type": "Image",
+        "description": "Hall Effect Rocket with Magnetic Shielding (HERMeS) Technology Development Unit (TDU) thruster in Vacuum Facility-5 prepared for test.",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17463,
+            "url": "https://techport.nasa.gov/file/17463",
+            "size": 3932296
+          }
+        ]
+      },
+      {
+        "id": 24272,
+        "title": "High Input Voltage Silicon CarbidePower Processing Unit Performance Demo_Bozak_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17444,
+            "url": "https://techport.nasa.gov/file/17444",
+            "size": 483491
+          }
+        ]
+      },
+      {
+        "id": 21929,
+        "title": "High-power Solar Electric Propulsion HERMeS ",
+        "type": "Story",
+        "description": "<p>NASA technology infusion Fact Sheet</p>",
+        "externalUrl": null,
+        "publishedBy": "NASA",
+        "publishedDate": "Jul 2015",
+        "files": [
+          {
+            "id": 16703,
+            "url": "https://techport.nasa.gov/file/16703",
+            "size": 531991
+          }
+        ]
+      },
+      {
+        "id": 24273,
+        "title": "Importance of Cathode Plume & Interactions with Ion Beam in Num Sims of Hall Thrusters_Lopez Ortega_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17445,
+            "url": "https://techport.nasa.gov/file/17445",
+            "size": 1325172
+          }
+        ]
+      },
+      {
+        "id": 24274,
+        "title": "Ion Propulsion System for SEP Tech Demo Mission_Herman_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17446,
+            "url": "https://techport.nasa.gov/file/17446",
+            "size": 554101
+          }
+        ]
+      },
+      {
+        "id": 27923,
+        "title": "Lanthanum Hexaboride (LaB6) Hollow Cathode for the Asteroid Redirect Robotic Mission (ARRM) 12.5 kW Hall Thruster",
+        "type": "Story",
+        "description": "Lanthanum Hexaboride (LaB6) Hollow Cathode for the Asteroid Redirect Robotic Mission (ARRM) 12.5 kW Hall Thruster",
+        "externalUrl": null,
+        "publishedBy": "Dan Goebel and James Polk",
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 19249,
+            "url": "https://techport.nasa.gov/file/19249",
+            "size": 604793
+          }
+        ]
+      },
+      {
+        "id": 32747,
+        "title": "MegaFlex",
+        "type": "Image",
+        "description": "MegaFlex under Test - SAS Contract",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 24452,
+            "url": "https://techport.nasa.gov/file/24452",
+            "size": 115965
+          }
+        ]
+      },
+      {
+        "id": 32742,
+        "title": "NASA Works to Improve Solar Electric Propulsion for Deep Space Exploration ",
+        "type": "Story",
+        "description": null,
+        "externalUrl": "http://www.nasa.gov/press-release/nasa-works-to-improve-solar-electric-propulsion-for-deep-space-exploration",
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": []
+      },
+      {
+        "id": 24275,
+        "title": "Near-Surface Plasma Characterization of the 12.5-kW NASA TDU1 Hall Thruster_Shastry_2015.pdf",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17447,
+            "url": "https://techport.nasa.gov/file/17447",
+            "size": 680482
+          }
+        ]
+      },
+      {
+        "id": 24276,
+        "title": "Non-Contact Thermal Characterization of NASA HERMeS Hall Thruster_Huang_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17448,
+            "url": "https://techport.nasa.gov/file/17448",
+            "size": 573625
+          }
+        ]
+      },
+      {
+        "id": 24277,
+        "title": "Perf & Facility Background Pressure Characterization Tests of NASA 12.5 kW HERMeS Thruster_Kamhawi_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17449,
+            "url": "https://techport.nasa.gov/file/17449",
+            "size": 2066183
+          }
+        ]
+      },
+      {
+        "id": 24278,
+        "title": "Plasma Perturbations in High-Speed Probing _Jorns_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17450,
+            "url": "https://techport.nasa.gov/file/17450",
+            "size": 2634737
+          }
+        ]
+      },
+      {
+        "id": 32746,
+        "title": "Pushing the Boundaries of Propelling Deep Space Missions",
+        "type": "Story",
+        "description": null,
+        "externalUrl": "https://www.nasa.gov/content/pushing-the-boundaries-of-propelling-deep-space-missions-0",
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": []
+      },
+      {
+        "id": 27007,
+        "title": "Roll Out Solar Array (ROSA)",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 18365,
+            "url": "https://techport.nasa.gov/file/18365",
+            "size": 237703
+          }
+        ]
+      },
+      {
+        "id": 32744,
+        "title": "Roll Out Solar Array Technology: Benefits for NASA, Commercial Sector",
+        "type": "Story",
+        "description": null,
+        "externalUrl": "http://www.nasa.gov/feature/roll-out-solar-array-technology-benefits-for-nasa-commercial-sector",
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": []
+      },
+      {
+        "id": 32741,
+        "title": "Rollout Solar Array",
+        "type": "Image",
+        "description": ", ROSA Under Test - SAS Contract",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 24451,
+            "url": "https://techport.nasa.gov/file/24451",
+            "size": 623992
+          }
+        ]
+      },
+      {
+        "id": 21920,
+        "title": "Solar Array concept drawing for SEP",
+        "type": "Image",
+        "description": "Solar Array concept drawing for the Solar Electric Propulsion project.",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 16697,
+            "url": "https://techport.nasa.gov/file/16697",
+            "size": 2159443
+          }
+        ]
+      },
+      {
+        "id": 42992,
+        "title": "Solar Electric Propulsion (SEP).jpg",
+        "type": "Image",
+        "description": "An advanced electric propulsion system could potentially increase spaceflight transportation fuel efficiency by 10 times over current chemical propulsion technology and more than double thrust capability compared to current electric propulsion technology. The next step will be to demonstrate this new electric propulsion system in space. Development of this technology will advance future in-space transportation capability for a variety of deep space human and robotic exploration missions as well as private commercial space missions.",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 32199,
+            "url": "https://techport.nasa.gov/file/32199",
+            "size": 107470
+          }
+        ]
+      },
+      {
+        "id": 27922,
+        "title": "Solar Electric Propulsion Concepts for Human Space Exploration",
+        "type": "Story",
+        "description": "Solar Electric Propulsion Concepts for Human Space Exploration",
+        "externalUrl": null,
+        "publishedBy": "Carolyn Mercer et al",
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 19248,
+            "url": "https://techport.nasa.gov/file/19248",
+            "size": 963289
+          }
+        ]
+      },
+      {
+        "id": 24279,
+        "title": "Thermal Characteristics of a Lanthanum Hexaboride Hollow Cathode_Polk_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17451,
+            "url": "https://techport.nasa.gov/file/17451",
+            "size": 3525576
+          }
+        ]
+      },
+      {
+        "id": 24280,
+        "title": "Wear Testing of a Magnetically Shielded Hall Thruster_Sekerak_2015",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17452,
+            "url": "https://techport.nasa.gov/file/17452",
+            "size": 3086346
+          }
+        ]
+      },
+      {
+        "id": 24281,
+        "title": "Xenon Acquisition Strategies for High-Power Electric Propulsion NASA Missions_2015_Herman",
+        "type": "Document",
+        "description": null,
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 17453,
+            "url": "https://techport.nasa.gov/file/17453",
+            "size": 369721
+          }
+        ]
+      }
+    ],
+    "supportingOrganizations": [
+      {
+        "name": "Aerojet Rocketdyne",
+        "type": "Industry",
+        "acronym": null,
+        "city": null,
+        "state": null,
+        "country": null
+      },
+      {
+        "name": "Analytical Mechanics Associates, Inc.",
+        "type": "Industry",
+        "acronym": null,
+        "city": "Hampton",
+        "state": "VA",
+        "country": "United States"
+      },
+      {
+        "name": "Ball Aerospace",
+        "type": "Industry",
+        "acronym": null,
+        "city": "Boulder",
+        "state": "CO",
+        "country": "United States"
+      },
+      {
+        "name": "Boeing",
+        "type": "Industry",
+        "acronym": null,
+        "city": "Chicago",
+        "state": "IL",
+        "country": "United States"
+      },
+      {
+        "name": "DSS",
+        "type": "Industry",
+        "acronym": null,
+        "city": null,
+        "state": null,
+        "country": null
+      },
+      {
+        "name": "ExoTerra Resource, LLC",
+        "type": "Industry",
+        "acronym": null,
+        "city": "Littleton",
+        "state": "CO",
+        "country": "United States"
+      },
+      {
+        "name": "Jet Propulsion Laboratory",
+        "type": "NASA Center",
+        "acronym": "JPL",
+        "city": "Pasadena",
+        "state": "CA",
+        "country": "United States"
+      },
+      {
+        "name": "Langley Research Center",
+        "type": "NASA Center",
+        "acronym": "LaRC",
+        "city": "Hampton",
+        "state": "VA",
+        "country": "United States"
+      },
+      {
+        "name": "Lockheed Martin Corporation",
+        "type": "Industry",
+        "acronym": null,
+        "city": null,
+        "state": null,
+        "country": null
+      },
+      {
+        "name": "Marshall Space Flight Center",
+        "type": "NASA Center",
+        "acronym": "MSFC",
+        "city": "Huntsville",
+        "state": "AL",
+        "country": "United States"
+      },
+      {
+        "name": "Northrop Grumman Corporation",
+        "type": "Industry",
+        "acronym": null,
+        "city": "Redondo Beach",
+        "state": "CA",
+        "country": "United States"
+      },
+      {
+        "name": "Ohio Aerospace Institute",
+        "type": "U.S. Government",
+        "acronym": "OAI",
+        "city": "Cleveland",
+        "state": "OH",
+        "country": "United States"
+      },
+      {
+        "name": "Orbital ATK",
+        "type": "Industry",
+        "acronym": null,
+        "city": null,
+        "state": null,
+        "country": null
+      },
+      {
+        "name": "Sierra Lobo Inc.",
+        "type": "Industry",
+        "acronym": null,
+        "city": null,
+        "state": null,
+        "country": null
+      },
+      {
+        "name": "Space Systems/Loral, LLC",
+        "type": "Industry",
+        "acronym": null,
+        "city": "San Jose",
+        "state": "CA",
+        "country": "United States"
+      }
+    ],
+    "primaryTas": [],
+    "additionalTas": []
+  }
+}

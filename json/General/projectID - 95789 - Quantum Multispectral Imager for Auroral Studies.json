@@ -1,0 +1,58 @@
+{
+  "project": {
+    "id": 95789,
+    "lastUpdated": "2020-05-19",
+    "title": "Quantum Dot-based Miniaturized Multispectral Imager for Auroral Studies",
+    "status": "Active",
+    "startDate": "Feb 2019",
+    "endDate": "Jan 2022",
+    "description": "We propose to design, develop and demonstrate an ultra-compact, low mass, high resolution multispectral imager based on an innovative concept of Quantum Dot Array (QDA). QDA acts as an absorptive filter array and replaces prisms and gratings that require long path length to achieve high spectral resolution. We will design this first prototype to image the Auroral emissions at the visible wavelengths. However, we can extend the capability to ultraviolet wavelengths relatively easily to image the Sun in the near future. The proposed instrument technology development effort addresses NASA's Heliophysics Science Strategic Objective: \"to understand the Sun and its interactions with Earth and the solar system, including space weather\", and the Science Goal: \"Explore the physical processes in the space environment from the Sun to the Earth and throughout the solar system\". Quantum Dots (QD) are semiconductor nanocrystals with a size smaller than twice its exciton Bohr radius, leading to quantum confinement of electric charges, and a unique absorbance spectrum. As the size of QD decreases, the confinement strengthens, increasing the bandgap, and shifting the absorbance spectrum in wavelength. This size dependent bandgap, and thus absorbance, makes it possible to produce a well-defined, continuously tunable, yet distinct, set of absorptive filters, where each pixel is made of QDs of a specific size, shape or composition. Such a filter array can be integrated to a detector array to make a compact imaging instrument. Reducing path length is an advantage also provided by wedged filters; however, QDAs are much cheaper and provides the additional benefit of customizing the wavelength and bandwidth of only the spectral features of interest in order to maximize the signal to noise performance. The sample spectrum can be mathematically reconstructed using the characteristic response of each of the filters and measurements made by the instrument based on wavelength multiplexing principle. The compactness and low resource nature of this potentially revolutionary technique makes it a suitable instrument for small satellite missions such as CubeSats. In this effort, we will leverage our existing collaboration with Professor Bawendi at Massachusetts Institute of Technology, one of the pioneers of quantum dots. We will design and develop the spectrometer to image the key lines of Auroral emissions, including 486.1 nm (proton line), 557.7 nm (brightest Auroral line caused by O(1S)) and 630 nm (O(1D)) with 1 nm target resolution. We will synthesize the quantum dots of the selective size and composition for the target wavelength range; print them on a quartz substrate to fabricate the spectrometer; integrate the spectrometer with a commercial detector array; calibrate each of the pixels to produce their response curves; develop a mathematical algorithm to reconstruct target spectra; and perform night sky measurement of air glow emissions (558 nm is the brightest line) to complete an end-to-end demonstration of the prototype.",
+    "benefits": "Support NASA's strategic objectives to understand the Sun and its interactions with Earth and the solar system, including space weather. This will be achieved by developing/demonstrating instrumentation technology",
+    "technologyMaturityStart": "2",
+    "technologyMaturityCurrent": "2",
+    "technologyMaturityEnd": "4",
+    "destinations": ["The Sun"],
+    "responsibleProgram": "Heliophysics Technology and Instrument Development for Science",
+    "responsibleMissionDirectorateOrOffice": "Science Mission Directorate",
+    "leadOrganization": {
+      "name": "Goddard Space Flight Center",
+      "type": "NASA Center",
+      "acronym": "GSFC",
+      "city": "Greenbelt",
+      "state": "MD",
+      "country": "United States"
+    },
+    "workLocations": ["Massachusetts", "Maryland"],
+    "programDirectors": ["Steven Clarke"],
+    "programManagers": ["John Moses"],
+    "principalInvestigators": ["Mahmooda Sultana"],
+    "coInvestigators": [
+      "David T Leisawitz",
+      "Moungi Bawendi",
+      "Norvik Voskanian Kordi",
+      "Englin Wong",
+      "Robert Michell"
+    ],
+    "libraryItems": [],
+    "supportingOrganizations": [
+      {
+        "name": "Massachusetts Institute of Technology",
+        "type": "Academic",
+        "acronym": "MIT",
+        "city": "Cambridge",
+        "state": "MA",
+        "country": "United States"
+      },
+      {
+        "name": "University of Maryland",
+        "type": "Academic",
+        "acronym": null,
+        "city": "College Park",
+        "state": "MD",
+        "country": "United States"
+      }
+    ],
+    "primaryTas": [],
+    "additionalTas": []
+  }
+}

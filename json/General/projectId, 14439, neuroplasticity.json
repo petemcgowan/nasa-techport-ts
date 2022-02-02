@@ -1,0 +1,129 @@
+[{
+  "project": {
+    "id": 14439,
+    "lastUpdated": "2020-07-21",
+    "title": "Novel Control Techniques for Hand and Wrist Robotic Rehabilitation",
+    "status": "Completed",
+    "startDate": "Aug 2013",
+    "endDate": "Jul 2017",
+    "description": "<p>The proposed adaptive control in this proposal has applications in exoskeletons used for resistive exercises both during and after space missions, and in the exoskeletons used for power augmentation of the hand and wrist. The utilization of this type of hand and wrist exoskeleton could improve the dexterity of the operator while combating the effects of fatigue allowing for longer, more effective, and safer missions involving extra-vehicular activity. The original impetus for an adaptive control arose out of advancements in the field of rehabilitation robotics, specifically in stroke and spinal cord injury rehabilitation. Many of the advancements made in rehabilitation robotics have either come from or have been transferred to exoskeletons aimed at healthy users, either for exercise or power augmentation. Over 90% of the estimated 7,000,000 stroke survivors (American Heart Association, 2012) will require rehabilitation focused on regaining function in the hand and wrist in order to regain the ability to perform acts of daily living and to improve their quality of life. Towards this goal, robotic rehabilitation has been successfully implemented, providing a safe, accurate way to administer the high intensity, long duration physical therapy required for successful stroke rehabilitation. Much attention has been given to the rehabilitation, exercise, and power augmentation of the legs, shoulders, and elbow. However, insufficient attention has been paid to the hand and wrist, and this proposal will address this shortcoming.</p>  <p>The hand and wrist together have 27 degrees of freedom, and due to packing and size constraints, any exoskeleton will likely not have the capability to actuate and measure every degree of freedom. In order to prevent the exoskeleton from becoming too bulky and heavy for practical applications, and to insure safe operation, the design will likely be a compliant and under-actuated. I propose to develop methods for controlling an under-actuated, compliant hand and wrist exoskeleton that will have applications in robotic rehabilitation, resistive exercise, and power augmentation, by combining the benefits of adaptive, assist-as-needed control and breaking down complex motions. Assist-as-needed control is a technique used in robotic rehabilitation that estimates a patient’s power output capabilities, and provides assistance only as a complement to the motion, facilitating the gains in neuroplasticity, essentially the rewiring of the brain, that other techniques cannot. These same adaptive control algorithms could be used similarly to maximize the efficacy of an astronaut’s exercise regimen, or to assist during an EVA, either by helping an astronaut hold onto a certain tool, or perform various tasks requiring greater dexterity or power than the astronaut alone can provide. I propose that the basic hand grasp positions found in the robotic manipulator literature could be a potential solution to the problem of under-actuation, and could be used to create a subset of building blocks upon which functional tasks are built. The broken down motions, in addition to the aforementioned benefits, have been shown to improve stroke patient outcomes in trials down on the shoulder and elbow, but have yet to see implementation on the hand and wrist.</p>  <p>Firstly, the rehabilitation of the wrist and hand will be exploring a crucial and overlooked part of rehabilitation robotics. Secondly, the implications of this research on the crucial areas of space exercise and EVA safety and efficacy are strongly aligned with the goals of the Robotics, Tele-Robotics, and Autonomous Systems Roadmap technology area. Extending the application of adaptive control to under-actuated robots and physical compliance will be an advancement in the state-of-the-art in the control of robotics. Furthermore, the application of better models for adaptive and assist-as-needed control will be furthering the bounds of the control community.</p> ",
+    "benefits": "<p>NASA Space Technology Fellows perform innovative space technology research and improve America's technological competitiveness by providing the Nation with a pipeline of innovative space technologies.</p> ",
+    "technologyMaturityStart": "2",
+    "technologyMaturityCurrent": "2",
+    "technologyMaturityEnd": "3",
+    "destinations": ["Earth"],
+    "responsibleProgram": "Space Technology Research Grants",
+    "responsibleMissionDirectorateOrOffice": "Space Technology Mission Directorate",
+    "leadOrganization": {
+      "name": "NASA Headquarters",
+      "type": "NASA Center",
+      "acronym": "HQ",
+      "city": "Washington",
+      "state": "DC",
+      "country": "United States"
+    },
+    "workLocations": ["Texas"],
+    "programDirectors": ["Claudia M Meyer"],
+    "programManagers": ["Hung D Nguyen"],
+    "principalInvestigators": ["Marcia O'malley"],
+    "website": "",
+    "libraryItems": [],
+    "closeoutSummary": "<p>The Space Technology Research Grants (STRG) Program features a low TRL technology portfolio of groundbreaking research in advanced space technology. STRG challenges the spectrum of academic researchers - from graduate students to tenured faculty members - to examine the theoretical feasibility of ideas and approaches that are critical to making science, space travel, and exploration more effective, affordable, and sustainable. The NASA Space Technology Graduate Research Opportunities solicitation (which replaces the NASA Space Technology Research Fellowships solicitation) seeks to sponsor graduate student researchers who show significant potential to contribute to NASA’s goal of creating innovative new space technologies for our Nation’s science, exploration, and economic future.</p> ",
+    "closeoutDocuments": [
+      "https://www.nasa.gov/spacetech/strg/2013_nstrf_rose.html"
+    ],
+    "supportingOrganizations": [
+      {
+        "name": "Johnson Space Center",
+        "type": "NASA Center",
+        "acronym": "JSC",
+        "city": "Houston",
+        "state": "TX",
+        "country": "United States"
+      },
+      {
+        "name": "Rice University",
+        "type": "Industry",
+        "acronym": null,
+        "city": null,
+        "state": null,
+        "country": null
+      }
+    ],
+    "primaryTas": [
+      {
+        "id": 10645,
+        "code": "TX05",
+        "title": "Communications, Navigation, and Orbital Debris Tracking and Characterization Systems",
+        "priority": null
+      },
+      {
+        "id": 10662,
+        "code": "TX05.3",
+        "title": "Internetworking",
+        "priority": null
+      },
+      {
+        "id": 10665,
+        "code": "TX05.3.3",
+        "title": "Information Assurance",
+        "priority": null
+      }
+    ],
+    "additionalTas": []
+  }
+},
+{
+  "project": {
+    "id": 91733,
+    "lastUpdated": "2018-10-10",
+    "title": "Novel Control Techniques for Hand and Wrist Robotic Rehabilitation",
+    "status": "Completed",
+    "startDate": "Aug 2013",
+    "endDate": "Aug 2017",
+    "description": "The proposed adaptive control in this proposal has applications in exoskeletons used for resistive exercises both during and after space missions, and in the exoskeletons used for power augmentation of the hand and wrist. The utilization of this type of hand and wrist exoskeleton could improve the dexterity of the operator while combating the effects of fatigue allowing for longer, more effective, and safer missions involving extra-vehicular activity. The original impetus for an adaptive control arose out of advancements in the field of rehabilitation robotics, specifically in stroke and spinal cord injury rehabilitation. Many of the advancements made in rehabilitation robotics have either come from or have been transferred to exoskeletons aimed at healthy users, either for exercise or power augmentation. Over 90% of the estimated 7,000,000 stroke survivors (American Heart Association, 2012) will require rehabilitation focused on regaining function in the hand and wrist in order to regain the ability to perform acts of daily living and to improve their quality of life. Towards this goal, robotic rehabilitation has been successfully implemented, providing a safe, accurate way to administer the high intensity, long duration physical therapy required for successful stroke rehabilitation. Much attention has been given to the rehabilitation, exercise, and power augmentation of the legs, shoulders, and elbow. However, insufficient attention has been paid to the hand and wrist, and this proposal will address this shortcoming.  The hand and wrist together have 27 degrees of freedom, and due to packing and size constraints, any exoskeleton will likely not have the capability to actuate and measure every degree of freedom. In order to prevent the exoskeleton from becoming too bulky and heavy for practical applications, and to insure safe operation, the design will likely be a compliant and under-actuated. I propose to develop methods for controlling an under-actuated, compliant hand and wrist exoskeleton that will have applications in robotic rehabilitation, resistive exercise, and power augmentation, by combining the benefits of adaptive, assist-as-needed control and breaking down complex motions. Assist-as-needed control is a technique used in robotic rehabilitation that estimates a patient's power output capabilities, and provides assistance only as a complement to the motion, facilitating the gains in neuroplasticity, essentially the rewiring of the brain, that other techniques cannot. These same adaptive control algorithms could be used similarly to maximize the efficacy of an astronaut's exercise regimen, or to assist during an EVA, either by helping an astronaut hold onto a certain tool, or perform various tasks requiring greater dexterity or power than the astronaut alone can provide. I propose that the basic hand grasp positions found in the robotic manipulator literature could be a potential solution to the problem of under-actuation, and could be used to create a subset of building blocks upon which functional tasks are built. The broken down motions, in addition to the aforementioned benefits, have been shown to improve stroke patient outcomes in trials down on the shoulder and elbow, but have yet to see implementation on the hand and wrist.  Firstly, the rehabilitation of the wrist and hand will be exploring a crucial and overlooked part of rehabilitation robotics. Secondly, the implications of this research on the crucial areas of space exercise and EVA safety and efficacy are strongly aligned with the goals of the Robotics, Tele-Robotics, and Autonomous Systems Roadmap technology area. Extending the application of adaptive control to under-actuated robots and physical compliance will be an advancement in the state-of-the-art in the control of robotics. Furthermore, the application of better models for adaptive and assist-as-needed control will be furthering the bounds of the control community.",
+    "benefits": "These  adaptive control algorithms could be used similarly to maximize the efficacy of an astronaut's exercise regimen, or to assist during an EVA, either by helping an astronaut hold onto a certain tool, or perform various tasks requiring greater dexterity or power than the astronaut alone can provide. I propose that the basic hand grasp positions found in the robotic manipulator literature could be a potential solution to the problem of under-actuation, and could be used to create a subset of building blocks upon which functional tasks are built. The broken down motions, in addition to the aforementioned benefits, have been shown to improve stroke patient outcomes in trials down on the shoulder and elbow, but have yet to see implementation on the hand and wrist.",
+    "technologyMaturityStart": "2",
+    "technologyMaturityCurrent": "3",
+    "technologyMaturityEnd": "3",
+    "destinations": ["Earth", "The Moon", "Mars"],
+    "responsibleProgram": "Space Technology Research Grants",
+    "responsibleMissionDirectorateOrOffice": "Space Technology Mission Directorate",
+    "leadOrganization": {
+      "name": "William Marsh Rice University",
+      "type": "Academic",
+      "acronym": null,
+      "city": null,
+      "state": null,
+      "country": null
+    },
+    "workLocations": ["Texas"],
+    "programDirectors": ["Claudia M Meyer"],
+    "programManagers": ["Hung D Nguyen"],
+    "principalInvestigators": ["Marcia O'malley"],
+    "coInvestigators": ["Chad Rose"],
+    "website": "https://www.nasa.gov/directorates/spacetech/home/index.html",
+    "libraryItems": [],
+    "primaryTas": [
+      {
+        "id": 10779,
+        "code": "TX10",
+        "title": "Autonomous Systems",
+        "priority": null
+      },
+      {
+        "id": 10787,
+        "code": "TX10.2",
+        "title": "Reasoning and Acting",
+        "priority": null
+      },
+      {
+        "id": 10791,
+        "code": "TX10.2.4",
+        "title": "Execution and Control",
+        "priority": null
+      }
+    ],
+    "additionalTas": []
+  }
+}]

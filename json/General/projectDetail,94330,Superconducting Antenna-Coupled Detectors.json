@@ -1,0 +1,315 @@
+{
+  "project": {
+    "projectId": 94330,
+    "title": "Superconducting Antenna-Coupled Detectors for CMB Polarimetry with the Inflation Probe",
+    "primaryTaxonomyNodes": [
+      {
+        "taxonomyNodeId": 10741,
+        "taxonomyRootId": 8816,
+        "parentNodeId": 10740,
+        "level": 3,
+        "code": "TX08.1.1",
+        "title": "Detectors and Focal Planes",
+        "definition": "Detectors, focal planes and readout integrated circuits provide large-format array technologies that require high quantum efficiency (QE); low noise, high resolution, uniform, and stable response; low power and cost; and high reliability. These technologies include low-noise, high-speed, low-power and radiation hardened readout integrated circuit (ROIC) electronics; superconducting sensors; spectral detectors; polarization-sensitive detectors; radiation-hardened detectors; and micro-Kelvin and sub-Kelvin high sensitivity detectors that cover the spectrum from submillimeter wave (Far-IR) to X-ray.",
+        "exampleTechnologies": "Backshort Undergrid bolometer arrays, Mercury Cadmium Telluride and Strained Superlattice Arrays, charge coupled devices, sidecar readout integrated circuits, radiometric calibration and abnormality correction algorithms (e.g. non-uniformity)",
+        "hasChildren": false,
+        "hasInteriorContent": true
+      }
+    ],
+    "startTrl": 3,
+    "currentTrl": 3,
+    "endTrl": 4,
+    "description": "We propose to develop advanced, high-sensitivity millimeter-wave detector arrays for measuring the polarization of the cosmic microwave background (CMB). The arrays are based on planar antennas that provide beam collimation, polarization analysis, and spectral band definition in a compact lithographed format that eliminates discrete fore-optics such as lenses and feedhorns. The antennas are coupled to transition-edge superconducting (TES) bolometers, read out with multiplexed SQUID current amplifiers.  This development is directed to advance the technology readiness of the Inflation Probe mission in NASA's Physics of the Cosmos program. The Inflation Probe is a fourth-generation CMB satellite that will measure the polarization of the CMB to astrophysical limits, characterizing the inflationary polarization signal, mapping large-scale structure based on polarization induced by gravitational lensing, and mapping Galactic magnetic fields through measurements of polarized dust emission. The inflationary polarization signal is produced by a background of gravitational waves from the epoch of inflation, an exponential expansion of space-time in the early universe, with an amplitude that depends on the physical mechanism producing inflation. The inflationary polarization signal may be distinguished by its unique 'B-mode' vector properties from polarization from the density variations that predominantly source CMB temperature anisotropy.  Observations with these detectors currently provide the world's leading constraints on the inflationary B-mode polarization signal and, in turn, constraints on inflationary physics.  Devices have been developed that demonstrate sensitivity, stability, and tolerance of energetic particles in an long-duration balloon environment. Ground-based receivers using these detectors demonstrate precise control of systematic errors at sensitivities in small sky patches that are representative of the Inflation Probe.  New arrays operating at 220 and 270 GHz are now providing the most sensitive determinations of polarized emission from interstellar dust.  We propose to advance specific aspects of antenna-coupled superconducting detectors so that they have high technology readiness for space applications, including the NASA Inflation Probe and upcoming international satellite opportunities.  For this proposal we will develop a diplexed 30/40 GHz dual-polarization antenna that saves focal plane area, a premium at low frequencies where devices are physically large.  We will design, fabricate, and test a new focal plane module for housing arrays made on 150 mm diameter wafers that is compatible with 30, 40, 95 and 150 GHz layouts.  Both the diplexed 30/40 GHz antennas and the modules are well-suited for immediate use in sub-orbital and ground-based science experiments.  We will design and characterize a passive resonator chip for measuring propagation loss in Nb and dielectric materials.  The chip is designed for rapid and routine process monitoring on production wafers.  Finally we will develop spatially uniform AlMn TES films, and characterize array cosmic ray susceptibility at 100 mK, extending successful performance measurements at 300 mK.",
+    "destinations": [
+      {
+        "lkuCodeId": 1547,
+        "code": "OUTSIDE_SOLAR_SYSTEM",
+        "description": "Outside the Solar System",
+        "lkuCodeTypeId": 526,
+        "lkuCodeType": {
+          "codeType": "DESTINATION_TYPE",
+          "description": "Destination Type"
+        }
+      }
+    ],
+    "startYear": 2018,
+    "startMonth": 1,
+    "endYear": 2019,
+    "endMonth": 12,
+    "statusDescription": "Completed",
+    "principalInvestigators": [
+      {
+        "contactId": 192467,
+        "firstName": "James",
+        "lastName": "Bock",
+        "fullName": "James J Bock",
+        "fullNameInverted": "Bock, James J",
+        "middleInitial": "J",
+        "primaryEmail": "james.bock@jpl.nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "programDirectors": [
+      {
+        "contactId": 309597,
+        "firstName": "Mario",
+        "lastName": "Perez",
+        "fullName": "Mario R Perez",
+        "fullNameInverted": "Perez, Mario R",
+        "middleInitial": "R",
+        "primaryEmail": "mario.perez@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "programManagers": [
+      {
+        "contactId": 309597,
+        "firstName": "Mario",
+        "lastName": "Perez",
+        "fullName": "Mario R Perez",
+        "fullNameInverted": "Perez, Mario R",
+        "middleInitial": "R",
+        "primaryEmail": "mario.perez@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "coInvestigators": [
+      {
+        "contactId": 11909,
+        "firstName": "Alexis",
+        "lastName": "Weber",
+        "fullName": "Alexis C Weber",
+        "fullNameInverted": "Weber, Alexis C",
+        "middleInitial": "C",
+        "primaryEmail": "alexis.c.weber.dr@jpl.nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      },
+      {
+        "contactId": 29736,
+        "firstName": "Anthony",
+        "lastName": "Turner",
+        "fullName": "Anthony D Turner",
+        "fullNameInverted": "Turner, Anthony D",
+        "middleInitial": "D",
+        "primaryEmail": "anthony.d.turner@jpl.nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      },
+      {
+        "contactId": 259861,
+        "firstName": "Karen",
+        "lastName": "Piggee",
+        "fullName": "Karen R Piggee",
+        "fullNameInverted": "Piggee, Karen R",
+        "middleInitial": "R",
+        "primaryEmail": "karen.r.piggee@jpl.nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      },
+      {
+        "contactId": 296859,
+        "firstName": "Lorenzo",
+        "lastName": "Moncelsi",
+        "fullName": "Lorenzo Moncelsi",
+        "fullNameInverted": "Moncelsi, Lorenzo",
+        "publicEmail": false,
+        "nacontact": false
+      },
+      {
+        "contactId": 212062,
+        "firstName": "Jeffrey",
+        "lastName": "Filippini",
+        "fullName": "Jeffrey P Filippini",
+        "fullNameInverted": "Filippini, Jeffrey P",
+        "middleInitial": "P",
+        "publicEmail": false,
+        "nacontact": false
+      },
+      {
+        "contactId": 409352,
+        "firstName": "Roger",
+        "lastName": "OBrient",
+        "fullName": "Roger Obrient",
+        "fullNameInverted": "OBrient, Roger",
+        "publicEmail": false,
+        "nacontact": false
+      }
+    ],
+    "libraryItems": [],
+    "responsibleMd": {
+      "acronym": "SMD",
+      "canUserEdit": false,
+      "city": "",
+      "external": true,
+      "linkCount": 0,
+      "organizationId": 4909,
+      "organizationName": "Science Mission Directorate",
+      "organizationType": "NASA_Mission_Directorate",
+      "naorganization": false,
+      "organizationTypePretty": "NASA Mission Directorate"
+    },
+    "program": {
+      "acronym": "SAT",
+      "active": true,
+      "description": "There are four Program elements within the Astrophysics Division that execute technology development activities: Cosmic Origins (COR), Physics of the Cosmos (PCOS), Exoplanet Exploration (EXEP), and the Astrophysics Research Program. Technology efforts in the Division are procured through both directed and competed processes. The PCOS, COR, and EXEP programs develop and operate the Division’s strategic science missions. Thus, each of these programs conduct strategic technology development activities to enable future missions and to support early phase mission development. Each has a formal Technology Development Plan to guide its technology development activities, and maintains an annual report that documents the status of currently funded activities. Annual assessments identify future technology development needs based on the science goals of each program. The PCOS, COR, and EXEP Programs conduct competed technology development efforts through a Research Opportunities in Space and Earth Science (ROSES) element known as Strategic Astrophysics Technology (SAT) that specifically targets technology developments that bridge the technology readiness level (TRL) 3-6 gap. SAT developed technologies are essential to enable strategic missions that specifically address the key science goals of the Astrophysics Decadal Survey recommendations. The three SAT elements for PCOS, COR, and EXEP are named Technology Development for Physics of the Cosmos (TPCOS), Technology Development for Cosmic Origins Program (TCOP), and Technology Development for Exo-Planet Missions (TDEM) respectively. In contrast to these competed efforts, each program also conducts directed technology development activities that are carried out as elements of specific strategic science missions during early development phases.",
+      "parentProgram": {
+        "active": true,
+        "description": "<p>There are four Program elements within the Astrophysics Division that execute technology development activities: Cosmic Origins&nbsp;<a href=\"http://cor.gsfc.nasa.gov/\">(COR),</a>&nbsp;Physics of the Cosmos&nbsp;<a href=\"http://pcos.gsfc.nasa.gov/\">(PCOS),</a>&nbsp;Exoplanet Exploration&nbsp;<a href=\"http://exep.jpl.nasa.gov/\">(EXEP),</a>&nbsp;and the Astrophysics Research Program. Technology efforts in the Division are procured &nbsp;through both directed and competed processes.</p><p>The PCOS, COR, and EXEP programs develop and operate the Division&rsquo;s strategic science missions. Thus, each of these programs conduct strategic technology development activities to enable future missions and to support early phase mission development. Each has a formal Technology Development Plan to guide its technology development activities, and maintains an annual report that documents the status of currently funded activities. Annual assessments identify future technology development needs based on the science goals of each program.</p><p>The PCOS, COR, and EXEP Programs conduct competed technology development efforts through a Research Opportunities in Space and Earth Science (ROSES) element known as Strategic Astrophysics Technology (SAT) that specifically targets technology developments that bridge the technology readiness level (TRL) 3-6 gap. SAT developed technologies are essential to enable strategic missions that specifically address the key science goals of the Astrophysics Decadal Survey recommendations. The three SAT elements for PCOS, COR, and EXEP are named Technology Development for Physics of the Cosmos (TPCOS), Technology Development for Cosmic Origins Program (TCOP), and Technology Development for Exo-Planet Missions (TDEM) respectively. In contrast to these competed efforts, each program also conducts directed technology development activities that are carried out as elements of specific strategic science missions during early development phases.</p><p>The Astrophysics Research Program competitively solicits low TRL (1-3) technology development activities of a more general nature through the Astrophysics Research and Analysis (APRA) Program element of ROSES. APRA is intended to support basic research of new technologies and feasibility demonstrations that may enable future science missions. For example, APRA seeks technology development of advanced detectors that may be proposed as instruments for future space flight experiments. APRA also supports suborbital science investigations that typically involve a significant level of technology development.</p>",
+        "programId": 34626,
+        "responsibleMd": {
+          "acronym": "SMD",
+          "canUserEdit": false,
+          "city": "",
+          "external": true,
+          "linkCount": 0,
+          "organizationId": 4909,
+          "organizationName": "Science Mission Directorate",
+          "organizationType": "NASA_Mission_Directorate",
+          "naorganization": false,
+          "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "responsibleMdId": 4909,
+        "title": "Astrophysics"
+      },
+      "parentProgramId": 34626,
+      "programId": 230,
+      "responsibleMd": {
+        "acronym": "SMD",
+        "canUserEdit": false,
+        "city": "",
+        "external": true,
+        "linkCount": 0,
+        "organizationId": 4909,
+        "organizationName": "Science Mission Directorate",
+        "organizationType": "NASA_Mission_Directorate",
+        "naorganization": false,
+        "organizationTypePretty": "NASA Mission Directorate"
+      },
+      "responsibleMdId": 4909,
+      "title": "Strategic Astrophysics Technology"
+    },
+    "leadOrganization": {
+      "acronym": "CalTech",
+      "canUserEdit": false,
+      "city": "Pasadena",
+      "country": {
+        "abbreviation": "US",
+        "countryId": 236,
+        "name": "United States"
+      },
+      "countryId": 236,
+      "external": true,
+      "linkCount": 0,
+      "organizationId": 3115,
+      "organizationName": "California Institute of Technology",
+      "organizationType": "Academia",
+      "stateTerritory": {
+        "abbreviation": "CA",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "California",
+        "stateTerritoryId": 59
+      },
+      "stateTerritoryId": 59,
+      "naorganization": false,
+      "organizationTypePretty": "Academia"
+    },
+    "supportingOrganizations": [
+      {
+        "acronym": "JPL",
+        "canUserEdit": false,
+        "city": "Pasadena",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "external": false,
+        "linkCount": 0,
+        "organizationId": 4946,
+        "organizationName": "Jet Propulsion Laboratory",
+        "organizationType": "NASA_Center",
+        "stateTerritory": {
+          "abbreviation": "CA",
+          "country": {
+            "abbreviation": "US",
+            "countryId": 236,
+            "name": "United States"
+          },
+          "countryId": 236,
+          "name": "California",
+          "stateTerritoryId": 59
+        },
+        "stateTerritoryId": 59,
+        "naorganization": false,
+        "organizationTypePretty": "NASA Center"
+      },
+      {
+        "canUserEdit": false,
+        "city": "Urbana",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "external": true,
+        "linkCount": 0,
+        "organizationId": 3999,
+        "organizationName": "University of Illinois, Urbana-Champaign",
+        "organizationType": "Academia",
+        "stateTerritory": {
+          "abbreviation": "IL",
+          "country": {
+            "abbreviation": "US",
+            "countryId": 236,
+            "name": "United States"
+          },
+          "countryId": 236,
+          "name": "Illinois",
+          "stateTerritoryId": 39
+        },
+        "stateTerritoryId": 39,
+        "naorganization": false,
+        "organizationTypePretty": "Academia"
+      }
+    ],
+    "statesWithWork": [
+      {
+        "abbreviation": "CA",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "California",
+        "stateTerritoryId": 59
+      },
+      {
+        "abbreviation": "IL",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "Illinois",
+        "stateTerritoryId": 39
+      }
+    ],
+    "lastUpdated": "2018-10-10",
+    "releaseStatusString": "Released",
+    "endDateString": "Dec 2019",
+    "startDateString": "Jan 2018"
+  }
+}

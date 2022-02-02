@@ -1,0 +1,307 @@
+{
+  "project": {
+    "projectId": 95118,
+    "title": "Advanced on-chip, submm-wavelength spectrometers using superconducting detectors.",
+    "primaryTaxonomyNodes": [
+      {
+        "taxonomyNodeId": 10740,
+        "taxonomyRootId": 8816,
+        "parentNodeId": 10739,
+        "level": 2,
+        "code": "TX08.1",
+        "title": "Remote Sensing Instruments/Sensors",
+        "definition": "Remote sensing instruments and sensors include components, sensors, and instruments sensitive to electromagnetic radiation; particles (charged, neutral, dust); electromagnetic fields, both direct current (DC) and alternating current (AC); acoustic energy; seismic energy; or whatever physical phenomenology the science requires. These instruments and sensors can be either active or passive devices in practice, depending upon the measurement regime and detection technology.",
+        "hasChildren": false,
+        "hasInteriorContent": true
+      }
+    ],
+    "startTrl": 2,
+    "currentTrl": 2,
+    "endTrl": 4,
+    "benefits": "The Astrophysics Research and Analysis program (APRA) supports suborbital and suborbital-class investigations, development of detectors and supporting technology, laboratory astrophysics, and limited ground based observing. Basic research proposals in these areas are solicited for investigations that are relevant to NASA's programs in astronomy and astrophysics, including the entire range of photons, gravitational waves, and particle astrophysics. The emphasis of this solicitation is on technologies and investigations that advance NASA astrophysics missions and goals.",
+    "description": "This program will develop and characterize ultra-sensitive on-chip spectrometers covering the sub-mm and mm-wavelength observing bands from 3 mm to 230 microns. This builds upon a successful program, SuperSpec, which has demonstrated the basic filterbank operation, a proof of principle that large-format spectrographs for the far-IR and submillimeter can be miniaturized onto silicon chips. Using superconducting mm-wave transmission line components and extremely small-volume kinetic inductance detectors (KIDs), we have constructed and are currently preparing to deploy a ground-based demonstration instrument covering the 1 mm atmospheric band. This is a key enabling technology for the next-generation cryogenically-cooled far-IR flight missions as well as near-future sub-orbital platforms such as balloon-based spectrometers and future SOFIA instruments. However, obtaining full scientific return from these powerful future far-IR missions requires 3 crucial advances in the SuperSpec filerbank technology: (1) improving filterbank loss by a factor of >10; (2) improving the detector sensitivity in order to meet the requirements of the low-background space platforms; (3) extending operation from the mm-wave to 230 microns. In order to meet these goals, we will build on our experience with superspec, as well as advances in dielectric material quality, fabrication techniques, and kinetic-inductance detector (KID) design approaches to accomplish each of these goals. A successful demonstration of these technologies will not only benefit future spectroscopic instruments, but will be immediatly useful for instruments operating in the submm and for KID-based instruments designed for a wide range of science targets. We will begin by adjusting the filterbank electromagnetic design for a silicon inner layer dielectric as this promises factors of up to 50 times lower loss than the current materials. We will build and test silicon-dielectric prototypes, beginning at the current 200--300 GHz band, but then moving up to the 400--700 GHz band. We will explore both deposited amorphous silicon (a-Si) using a new low-loss recipe as well as a crystalline silicon (c-Si) ''fliped-SOI\" process using silicon-on-oxide (SOI) wafers. Meanwhile we will develop more sensitive KIDs to embed in the spectrometers. In particular, we will adapt our spectrometer design to accommodate very small volume aluminum KIDs, which promises significant improvements in sensitivity required for low-loading applications. Finally, we will explore superconducting transmission lines made from both sputtered and atomic layer deposited (ALD) NbTiN and NbN. These materials have a transition temperature much higher than niobium and should allow us to extend the operation of our basic filterbank architecture to THz frequencies. In addition to a number of test structures sample devices, we will produce a series of four demonstration pixels: [FB-1]: a prototype covering the full 200-300 GHz band with resolving power (R) of at least 1000 and negligible dielectric loss. [FB-2]: a similarly low-loss submm prototype covering the 850-650 micron bands with similar resolving powers. [FB-HR]: a mm-wavelength device designed to achieve the highest possible resolving powers, targeting R~5000. [FB-T]: a sparse filterbank covering regions of the 0.8-1.3 THz filterbank to demonstrate high-frequency operation. The first three of these devices are intended to be field-ready at the conclusion of this program, and the fourth easily adapted for future instruments.",
+    "destinations": [
+      {
+        "lkuCodeId": 1547,
+        "code": "OUTSIDE_SOLAR_SYSTEM",
+        "description": "Outside the Solar System",
+        "lkuCodeTypeId": 526,
+        "lkuCodeType": {
+          "codeType": "DESTINATION_TYPE",
+          "description": "Destination Type"
+        }
+      }
+    ],
+    "startYear": 2019,
+    "startMonth": 1,
+    "endYear": 2023,
+    "endMonth": 12,
+    "statusDescription": "Active",
+    "principalInvestigators": [
+      {
+        "contactId": 145348,
+        "firstName": "Erik",
+        "lastName": "Shirokoff",
+        "fullName": "Erik D Shirokoff",
+        "fullNameInverted": "Shirokoff, Erik D",
+        "middleInitial": "D",
+        "publicEmail": false,
+        "nacontact": false
+      }
+    ],
+    "programDirectors": [
+      {
+        "contactId": 332808,
+        "firstName": "Michael",
+        "lastName": "Garcia",
+        "fullName": "Michael A Garcia",
+        "fullNameInverted": "Garcia, Michael A",
+        "middleInitial": "A",
+        "publicEmail": false,
+        "nacontact": false
+      }
+    ],
+    "programManagers": [
+      {
+        "contactId": 123302,
+        "firstName": "Dominic",
+        "lastName": "Benford",
+        "fullName": "Dominic J Benford",
+        "fullNameInverted": "Benford, Dominic J",
+        "middleInitial": "J",
+        "primaryEmail": "dominic.j.benford@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "coInvestigators": [
+      {
+        "contactId": 451605,
+        "firstName": "Sunil",
+        "lastName": "Golwala",
+        "fullName": "Sunil Golwala",
+        "fullNameInverted": "Golwala, Sunil",
+        "publicEmail": false,
+        "nacontact": false
+      },
+      {
+        "contactId": 335733,
+        "firstName": "Michael",
+        "lastName": "Ludwig",
+        "fullName": "Michael R Ludwig",
+        "fullNameInverted": "Ludwig, Michael R",
+        "middleInitial": "R",
+        "publicEmail": false,
+        "nacontact": false
+      },
+      {
+        "contactId": 448001,
+        "firstName": "Steven",
+        "lastName": "Hailey-Dunsheath",
+        "fullName": "Steven J Hailey-dunsheath",
+        "fullNameInverted": "Hailey-Dunsheath, Steven J",
+        "middleInitial": "J",
+        "publicEmail": false,
+        "nacontact": false
+      },
+      {
+        "contactId": 68240,
+        "firstName": "Charles",
+        "lastName": "Bradford",
+        "fullName": "Charles M Bradford",
+        "fullNameInverted": "Bradford, Charles M",
+        "middleInitial": "M",
+        "primaryEmail": "matt.bradford@jpl.nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      },
+      {
+        "contactId": 179349,
+        "firstName": "Henry",
+        "lastName": "LeDuc",
+        "fullName": "Henry G Leduc",
+        "fullNameInverted": "LeDuc, Henry G",
+        "middleInitial": "G",
+        "primaryEmail": "rleduc@jpl.nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      },
+      {
+        "contactId": 372760,
+        "firstName": "Peter",
+        "lastName": "Barry",
+        "fullName": "Peter A Barry",
+        "fullNameInverted": "Barry, Peter A",
+        "middleInitial": "A",
+        "primaryEmail": "peter.barry@nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      },
+      {
+        "contactId": 20496,
+        "firstName": "Andrew",
+        "lastName": "Beyer",
+        "fullName": "Andrew D Beyer",
+        "fullNameInverted": "Beyer, Andrew D",
+        "middleInitial": "D",
+        "primaryEmail": "andrew.d.beyer@jpl.nasa.gov",
+        "publicEmail": true,
+        "nacontact": false
+      }
+    ],
+    "libraryItems": [],
+    "responsibleMd": {
+      "acronym": "SMD",
+      "canUserEdit": false,
+      "city": "",
+      "external": true,
+      "linkCount": 0,
+      "organizationId": 4909,
+      "organizationName": "Science Mission Directorate",
+      "organizationType": "NASA_Mission_Directorate",
+      "naorganization": false,
+      "organizationTypePretty": "NASA Mission Directorate"
+    },
+    "program": {
+      "acronym": "APRA",
+      "active": true,
+      "description": "<p>The Astrophysics Research Program competitively solicits low TRL (1-3) technology development activities of a more general nature through the Astrophysics Research and Analysis (APRA) Program element of ROSES. APRA is intended to support basic research of new technologies and feasibility demonstrations that may enable future science missions. For example, APRA seeks technology development of advanced detectors that may be proposed as instruments for future space flight experiments. APRA also supports suborbital science investigations that typically involve a significant level of technology development.</p>",
+      "parentProgram": {
+        "active": true,
+        "description": "<p>There are four Program elements within the Astrophysics Division that execute technology development activities: Cosmic Origins&nbsp;<a href=\"http://cor.gsfc.nasa.gov/\">(COR),</a>&nbsp;Physics of the Cosmos&nbsp;<a href=\"http://pcos.gsfc.nasa.gov/\">(PCOS),</a>&nbsp;Exoplanet Exploration&nbsp;<a href=\"http://exep.jpl.nasa.gov/\">(EXEP),</a>&nbsp;and the Astrophysics Research Program. Technology efforts in the Division are procured &nbsp;through both directed and competed processes.</p><p>The PCOS, COR, and EXEP programs develop and operate the Division&rsquo;s strategic science missions. Thus, each of these programs conduct strategic technology development activities to enable future missions and to support early phase mission development. Each has a formal Technology Development Plan to guide its technology development activities, and maintains an annual report that documents the status of currently funded activities. Annual assessments identify future technology development needs based on the science goals of each program.</p><p>The PCOS, COR, and EXEP Programs conduct competed technology development efforts through a Research Opportunities in Space and Earth Science (ROSES) element known as Strategic Astrophysics Technology (SAT) that specifically targets technology developments that bridge the technology readiness level (TRL) 3-6 gap. SAT developed technologies are essential to enable strategic missions that specifically address the key science goals of the Astrophysics Decadal Survey recommendations. The three SAT elements for PCOS, COR, and EXEP are named Technology Development for Physics of the Cosmos (TPCOS), Technology Development for Cosmic Origins Program (TCOP), and Technology Development for Exo-Planet Missions (TDEM) respectively. In contrast to these competed efforts, each program also conducts directed technology development activities that are carried out as elements of specific strategic science missions during early development phases.</p><p>The Astrophysics Research Program competitively solicits low TRL (1-3) technology development activities of a more general nature through the Astrophysics Research and Analysis (APRA) Program element of ROSES. APRA is intended to support basic research of new technologies and feasibility demonstrations that may enable future science missions. For example, APRA seeks technology development of advanced detectors that may be proposed as instruments for future space flight experiments. APRA also supports suborbital science investigations that typically involve a significant level of technology development.</p>",
+        "programId": 34626,
+        "responsibleMd": {
+          "acronym": "SMD",
+          "canUserEdit": false,
+          "city": "",
+          "external": true,
+          "linkCount": 0,
+          "organizationId": 4909,
+          "organizationName": "Science Mission Directorate",
+          "organizationType": "NASA_Mission_Directorate",
+          "naorganization": false,
+          "organizationTypePretty": "NASA Mission Directorate"
+        },
+        "responsibleMdId": 4909,
+        "title": "Astrophysics"
+      },
+      "parentProgramId": 34626,
+      "programId": 93,
+      "responsibleMd": {
+        "acronym": "SMD",
+        "canUserEdit": false,
+        "city": "",
+        "external": true,
+        "linkCount": 0,
+        "organizationId": 4909,
+        "organizationName": "Science Mission Directorate",
+        "organizationType": "NASA_Mission_Directorate",
+        "naorganization": false,
+        "organizationTypePretty": "NASA Mission Directorate"
+      },
+      "responsibleMdId": 4909,
+      "title": "Astrophysics Research and Analysis"
+    },
+    "leadOrganization": {
+      "canUserEdit": false,
+      "city": "",
+      "external": true,
+      "linkCount": 0,
+      "organizationId": 1061,
+      "organizationName": "University of Chicago",
+      "organizationType": "Academia",
+      "naorganization": false,
+      "organizationTypePretty": "Academia"
+    },
+    "supportingOrganizations": [
+      {
+        "acronym": "CalTech",
+        "canUserEdit": false,
+        "city": "Pasadena",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "external": true,
+        "linkCount": 0,
+        "organizationId": 3115,
+        "organizationName": "California Institute of Technology",
+        "organizationType": "Academia",
+        "stateTerritory": {
+          "abbreviation": "CA",
+          "country": {
+            "abbreviation": "US",
+            "countryId": 236,
+            "name": "United States"
+          },
+          "countryId": 236,
+          "name": "California",
+          "stateTerritoryId": 59
+        },
+        "stateTerritoryId": 59,
+        "naorganization": false,
+        "organizationTypePretty": "Academia"
+      },
+      {
+        "acronym": "JPL",
+        "canUserEdit": false,
+        "city": "Pasadena",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "external": false,
+        "linkCount": 0,
+        "organizationId": 4946,
+        "organizationName": "Jet Propulsion Laboratory",
+        "organizationType": "NASA_Center",
+        "stateTerritory": {
+          "abbreviation": "CA",
+          "country": {
+            "abbreviation": "US",
+            "countryId": 236,
+            "name": "United States"
+          },
+          "countryId": 236,
+          "name": "California",
+          "stateTerritoryId": 59
+        },
+        "stateTerritoryId": 59,
+        "naorganization": false,
+        "organizationTypePretty": "NASA Center"
+      }
+    ],
+    "statesWithWork": [
+      {
+        "abbreviation": "CA",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "California",
+        "stateTerritoryId": 59
+      },
+      {
+        "abbreviation": "IL",
+        "country": {
+          "abbreviation": "US",
+          "countryId": 236,
+          "name": "United States"
+        },
+        "countryId": 236,
+        "name": "Illinois",
+        "stateTerritoryId": 39
+      }
+    ],
+    "lastUpdated": "2020-10-16",
+    "releaseStatusString": "Released",
+    "endDateString": "Dec 2023",
+    "startDateString": "Jan 2019"
+  }
+}

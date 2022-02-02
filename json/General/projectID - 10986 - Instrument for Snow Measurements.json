@@ -1,0 +1,94 @@
+{
+  "project": {
+    "id": 10986,
+    "lastUpdated": "2020-01-14",
+    "title": "Enhancement, Demonstration, and Validation of the Wideband Instrument for Snow Measurements",
+    "acronym": "WISM",
+    "status": "Completed",
+    "startDate": "Jun 2014",
+    "endDate": "May 2017",
+    "description": "Advance the utility of a wideband active and passive instrument (8-40 GHz) to support the snow science community. Improve snow measurements through advanced calibration and expanded frequency of active and passive sensors. Demonstrate science utility through airborne retrievals of snow water equivalent (SWE). Advance the technology readiness of broadband current sheet array (CSA) antenna technology for spaceflight applications The Enhancement, Demonstration and Validation of the Wideband Instrument for Snow Measuremetns progect has three key technical objectives. The first is to design, build, and test 8-40 GHz wideband fixed beam feed for an offset reflector. The second objective is to design, build and test multi-function instrument to support SAR and radiometry. The third technical objective is to improve Snow Water Equivalent (SWE) measurement from space by developing new algorithms exploiting wideband antenna/instrument technology.",
+    "technologyMaturityStart": "4",
+    "technologyMaturityCurrent": "4",
+    "technologyMaturityEnd": "4",
+    "destinations": ["Earth"],
+    "responsibleProgram": "Earth Science Technology Office",
+    "responsibleMissionDirectorateOrOffice": "Science Mission Directorate",
+    "leadOrganization": {
+      "name": "NASA Headquarters",
+      "type": "NASA Center",
+      "acronym": "HQ",
+      "city": "Washington",
+      "state": "DC",
+      "country": "United States"
+    },
+    "workLocations": ["Florida"],
+    "programDirectors": ["George Komar"],
+    "principalInvestigators": ["Tim Durham"],
+    "libraryItems": [
+      {
+        "id": 883,
+        "title": "10986-1359991335139.jpg",
+        "type": "Image",
+        "description": "Project Image   An 8-40 GHz Wideband Instrument for Snow Measurements (WISM)",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 1563,
+            "url": "https://techport.nasa.gov/file/1563",
+            "size": 28813
+          }
+        ]
+      },
+      {
+        "id": 6679,
+        "title": "91-1373479894122.png",
+        "type": "Image",
+        "description": "ALHAT - ETD Autonomous Landing & Hazard Avoidance Tech   Earth Science Technology Office",
+        "externalUrl": null,
+        "publishedBy": null,
+        "publishedDate": null,
+        "files": [
+          {
+            "id": 5098,
+            "url": "https://techport.nasa.gov/file/5098",
+            "size": 234412
+          }
+        ]
+      }
+    ],
+    "primaryTas": [
+      {
+        "id": 10519,
+        "code": "TA8",
+        "title": "Science Instruments, Observatories, and Sensor Systems",
+        "priority": null
+      },
+      {
+        "id": 8857,
+        "code": "TA8.1",
+        "title": "Remote Sensing Instruments and Sensors",
+        "priority": null
+      },
+      {
+        "id": 9093,
+        "code": "TA8.1.4",
+        "title": "Microwave, Millimeter-, and Submillimeter-Waves",
+        "priority": null
+      }
+    ],
+    "additionalTas": [],
+    "supportingOrganizations": [
+      {
+        "name": "Goddard Space Flight Center",
+        "type": "NASA Center",
+        "acronym": "GSFC",
+        "city": "Greenbelt",
+        "state": "MD",
+        "country": "United States"
+      }
+    ]
+  }
+}
