@@ -1,0 +1,55 @@
+{
+  "caption": "Project Image   Sub-Scale Re-entry Capsule Drop via High Altitude Balloons",
+  "file": {
+    "fileExtension": "jpg",
+    "fileId": 2306,
+    "fileName": "12150-1379607056286",
+    "fileSize": 82775,
+    "objectId": 1023,
+    "objectType": {
+      "lkuCodeId": 889,
+      "code": "LIBRARY_ITEMS",
+      "description": "Library Items",
+      "lkuCodeTypeId": 182,
+      "lkuCodeType": { "codeType": "OBJECT_TYPE", "description": "Object Type" }
+    },
+    "objectTypeId": 889
+  },
+  "files": [
+    {
+      "fileExtension": "jpg",
+      "fileId": 2306,
+      "fileName": "12150-1379607056286",
+      "fileSize": 82775,
+      "objectId": 1023,
+      "objectType": {
+        "lkuCodeId": 889,
+        "code": "LIBRARY_ITEMS",
+        "description": "Library Items",
+        "lkuCodeTypeId": 182,
+        "lkuCodeType": {
+          "codeType": "OBJECT_TYPE",
+          "description": "Object Type"
+        }
+      },
+      "objectTypeId": 889
+    }
+  ],
+  "id": 1023,
+  "title": "12150-1379607056286.jpg",
+  "description": "Project Image   Sub-Scale Re-entry Capsule Drop via High Altitude Balloons",
+  "libraryItemTypeId": 1095,
+  "projectId": 12150,
+  "primary": true,
+  "publishedDateString": "",
+  "contentType": {
+    "lkuCodeId": 1095,
+    "code": "IMAGE",
+    "description": "Image",
+    "lkuCodeTypeId": 341,
+    "lkuCodeType": {
+      "codeType": "LIBRARY_ITEM_TYPE",
+      "description": "Library Item Type"
+    }
+  }
+}
