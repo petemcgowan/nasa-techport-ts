@@ -1,2 +1,8 @@
 /.DS_Store
 /nasa-techport-ts.code-workspace
+node_modules
+notesdraft
+docs/.DS_Store
+json/.DS_Store
+public/.DS_Store
+src/.DS_Store
