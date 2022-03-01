@@ -1,68 +1,94 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## NASA Tech Viewer Cubes
 
-## Available Scripts
+View NASA Project Tech
 
-In the project directory, you can run:
+## What the app is for
 
-### `npm start`
+System which allows one to view NASAs coolest research projects using a double cube slider viewing system. Which I call a double helix 😎
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The API is limited in its search capability and fairly inconsistent in its data content, so this system bravely attempts to simplify the viewing process, so that it's...interesting (vs a wall of nerd text 🤓).
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+The system favors images over text, to avoid projects not deemed worthy of an image (likely not that interesting).
 
-### `npm test`
+## What is NASA Techport API?
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+NASA's Technology Portfolio Management System (TechPort) is a single, resource for locating detailed information about NASA-funded technologies.
 
-### `npm run build`
+Those technologies cover a broad range of areas, such as propulsion, nanotechnology, robotics, and human health. This includes descriptions of technologies, images, and locations where work is being performed.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Note, the NASA API has a limited search mechanism, relying on specified keywords only. Hence the selection drop down which categorises the data in usable search terms that might interest the viewer.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## JSON
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+There are many examples of search requests and responses based on various data in the JSON folders. These are for testing purposes, and to research viable search mechanisms.
 
-### `npm run eject`
+These folders should also contain. This system currently has only a middle tier, no back-end although this is likely to change. It's a question of speed/viable interface vs fully up to date info (which may not be required, as the system is to give an extensive flavour vs a fully comprehensive archive). Usability vs completeness.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Technical details
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This is a full stack app using:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- React JS / ES7 / Webpack
+- React Hooks
+- React State
+- SCSS / CSS
+- SliderJS component
+- NASA Techport API
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- TODO: Run app, document your steps
+- TODO: Include Techport API links (or just the pertinent info) https://techport.nasa.gov/help/articles/api
+  TODO: Create a future design section, use your full Stack Design.md as source.
 
-## Learn More
+## Main app components
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Main:
+<img src="docs/images/main-ntv.png" width="100%" />
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Image Slider Cube:
+<img src="docs/images/image-cube-ntv.png" width="100%" />
 
-### Code Splitting
+Details Cube Slider (with text):
+<img src="docs/images/detail-cube-text-ntv.png" width="100%" />
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Details Cube (with extra detail image):
+<img src="docs/images/detail-cube-image-ntv.png" width="100%" />
 
-### Analyzing the Bundle Size
+detail-cube-image-ntv.png
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Usage
 
-### Making a Progressive Web App
+For the app to run you'll need a NASA Open API key. This can be requested here
+https://api.nasa.gov/
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+Note that there are sensible but not exhaustive API rate limits in place. In the body of the response contains information on how many requests have been made per hour, and how many are left.
 
-### Advanced Configuration
+# To Run app
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+npm run start
 
-### Deployment
+## API specification USED detail
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Full details of the Techport API specification are here:
+https://techport.nasa.gov/help/articles/api
 
-### `npm run build` fails to minify
+Most details needed are at the project level as follows:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+- projectId - integer($int64)
+  Unique identifier for the project.
+
+- primaryImage - derived from the libraryItems group, if available
+
+- benefits - string
+  Describes the benefits offered to NASA funded and planned missions, unfunded or planned missions, commercial space industry, and to the nation.
+
+primaryTaxonomyNodes - such as benefits and example technologies. If this doesn't exist, they're asleep at the wheel and the project's not worth getting
+
+libraryItems e.g. Images, PDFs. We use images here, if available
+libItem.contentType.code e.g. "IMAGE"
+
+project.statusDescription
+project.website
+primaryTaxonomyNodes[0].exampleTechnologies
+primaryTaxonomyNodes[0].definition
+
+Note: The API was changed in mid 2021, and I'm not sure the docs are fully reflective of that as of yet!
